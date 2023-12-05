@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo -e "\e[1m----------------------------------------"
-echo -e "\e[1m            .NET 5 Installer"
+echo -e "\e[1m            .NET 7 Installer"
 echo -e "\e[1m----------------------------------------"
 echo ""
 echo -e "\e[1mPete Codes / PJG Creations 2021"
@@ -15,7 +15,7 @@ echo -e "\e[1m     Fetching Latest .NET Versions"
 echo -e "\e[1m----------------------------------------"
 echo -e "\e[0m"
 
-dotnetver=5.0
+dotnetver=7.0
 
 sdkfile=/tmp/dotnetsdk.tar.gz
 aspnetfile=/tmp/aspnetcore.tar.gz
